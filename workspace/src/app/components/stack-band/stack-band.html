@@ -1,0 +1,35 @@
+<section class="stack" id="tools" aria-labelledby="tools-title">
+  <div class="stack__head wrap">
+    <h2 class="stack__title" id="tools-title">Tools I have shipped with</h2>
+  </div>
+
+  <div class="stack__band on-dark" aria-hidden="true">
+    <div class="stack__viewport">
+      <div class="stack__rail">
+        <div class="stack__sequence">
+          @for (item of stack; track item) {
+            <span class="stack__item">{{ item }}</span>
+            <span class="stack__dot"></span>
+          }
+        </div>
+        <div class="stack__sequence">
+          @for (item of stack; track item) {
+            <span class="stack__item">{{ item }}</span>
+            <span class="stack__dot"></span>
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <ul class="sr-only">
+    @for (item of stack; track item) {
+      <li>{{ item }}</li>
+    }
+  </ul>
+
+  <p class="stack__note wrap">
+    The stack behind the systems above: models, APIs, the front end and the data. I choose the
+    smallest set that can carry the work.
+  </p>
+</section>

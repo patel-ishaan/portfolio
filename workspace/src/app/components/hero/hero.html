@@ -1,0 +1,66 @@
+<section class="hero" aria-labelledby="hero-title">
+  <img
+    class="hero__bg"
+    src="images/studio-mural.jpg"
+    alt=""
+    width="2000"
+    height="1125"
+    fetchpriority="high"
+  />
+  <div class="hero__veil" aria-hidden="true"></div>
+
+  <article class="hero__card">
+    <nav class="hero__nav" aria-label="Primary">
+      <a href="#work">Work</a>
+      <a href="#experience">Experience</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+      <a [href]="resume" download>Résumé</a>
+    </nav>
+
+    <h1 class="hero__name" id="hero-title" [appReveal]="60">
+      <span>Ishaan</span>
+      <span>Patel</span>
+    </h1>
+
+    <div class="hero__body" [appReveal]="150">
+      <div class="hero__facts">
+        <p>AI engineer</p>
+        <p>Full-stack developer</p>
+        <p>India</p>
+      </div>
+      <p class="hero__statement" aria-live="polite">{{ statement() }}</p>
+    </div>
+
+    <div class="hero__switch" [appReveal]="240">
+      <span class="hero__switch-label">I am here to</span>
+      <div class="hero__segments" role="group" aria-label="Choose what you are here for">
+        <button
+          type="button"
+          class="hero__segment"
+          [class.is-active]="mode() === 'hiring'"
+          [attr.aria-pressed]="mode() === 'hiring'"
+          (click)="setMode('hiring')"
+        >
+          Hire for a role
+        </button>
+        <button
+          type="button"
+          class="hero__segment"
+          [class.is-active]="mode() === 'project'"
+          [attr.aria-pressed]="mode() === 'project'"
+          (click)="setMode('project')"
+        >
+          Brief a project
+        </button>
+      </div>
+    </div>
+
+    <div class="hero__actions" [appReveal]="320">
+      <button type="button" class="btn hero__cta" (click)="openMail()">
+        {{ primaryLabel() }}
+      </button>
+      <a class="text-link hero__work-link" href="#work">See the work <span aria-hidden="true">↓</span></a>
+    </div>
+  </article>
+</section>

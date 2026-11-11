@@ -1,0 +1,69 @@
+<section class="capabilities" id="capabilities" aria-labelledby="capabilities-title">
+  <div class="capabilities__head wrap">
+    <h2 class="capabilities__title" id="capabilities-title" [appReveal]="0">What I bring</h2>
+    <p class="capabilities__intro" [appReveal]="80">
+      Three parts of one job: decide with the model, build the product around it, and show what the
+      data can support.
+    </p>
+  </div>
+
+  <div class="sheets">
+    @for (capability of capabilities; track capability.id) {
+      <article
+        class="sheet"
+        [class.sheet--dark]="capability.tone === 'dark'"
+        [class.sheet--mid]="capability.tone === 'mid'"
+        [class.sheet--warm]="capability.tone === 'warm'"
+      >
+        <div class="sheet__inner">
+          <h3 class="sheet__name">{{ capability.name }}</h3>
+          <p class="sheet__body">{{ capability.body }}</p>
+
+          <div class="sheet__visual">
+            @switch (capability.id) {
+              @case ('agents') {
+                <p class="sheet__visual-label">Request path</p>
+                <ol class="flow">
+                  @for (step of flow; track step.label) {
+                    <li>
+                      <span class="flow__label">{{ step.label }}</span>
+                      <span class="flow__detail">{{ step.detail }}</span>
+                    </li>
+                  }
+                </ol>
+                <p class="sheet__visual-note">Six steps from one brief to a plan.</p>
+              }
+              @case ('product') {
+                <p class="sheet__visual-label">Layers</p>
+                <ol class="layers">
+                  @for (layer of layers; track layer.label) {
+                    <li>
+                      <span class="layers__label">{{ layer.label }}</span>
+                      <span class="layers__detail">{{ layer.detail }}</span>
+                    </li>
+                  }
+                </ol>
+                <p class="layers__note">Mockito tests around the service layer.</p>
+              }
+              @case ('data') {
+                <p class="sheet__visual-label">Original source</p>
+                <figure class="data-image">
+                  <img
+                    src="images/survey-of-india-1922.jpg"
+                    alt="Index to the Great Trigonometrical Survey of India, 1922."
+                    width="1800"
+                    height="1440"
+                    loading="lazy"
+                  />
+                  <figcaption>
+                    “Index to the Great Trigonometrical Survey of India”, 1922. Public domain.
+                  </figcaption>
+                </figure>
+              }
+            }
+          </div>
+        </div>
+      </article>
+    }
+  </div>
+</section>

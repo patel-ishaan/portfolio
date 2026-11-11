@@ -1,0 +1,12 @@
+# Dependencies and build artifacts
+**/node_modules/
+**/dist/
+**/.angular/cache/
+
+# Environment secrets
+**/.env
+**/.env.*
+
+# System files
+.DS_Store
+Thumbs.db

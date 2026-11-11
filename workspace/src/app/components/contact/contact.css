@@ -1,0 +1,158 @@
+.contact {
+  position: relative;
+  min-height: 100svh;
+  overflow: hidden;
+  background: #151513;
+}
+
+.contact__bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 48%;
+  filter: saturate(0.84) brightness(0.72);
+}
+
+.contact__veil {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 10, 9, 0.18);
+}
+
+.contact__card {
+  position: absolute;
+  top: clamp(24px, 6vh, 60px);
+  right: clamp(20px, 4vw, 60px);
+  width: min(420px, calc(100vw - 2 * var(--edge)));
+  padding: clamp(24px, 2.4vw, 34px);
+  background: var(--card);
+  color: var(--card-ink);
+}
+
+.contact__title {
+  font-size: var(--step-subhead);
+  letter-spacing: -0.06em;
+}
+
+.contact__lead {
+  max-width: 32ch;
+  margin-top: 14px;
+  font-size: var(--step-body);
+  line-height: 1.4;
+}
+
+.contact__details {
+  display: grid;
+  gap: 9px;
+  margin-top: clamp(26px, 4vh, 42px);
+}
+
+.contact__details > div {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 12px;
+  align-items: baseline;
+  padding: 9px 10px;
+  background: rgba(17, 17, 16, 0.075);
+}
+
+.contact__details dt {
+  color: var(--muted);
+  font-size: var(--step-small);
+}
+
+.contact__details dd {
+  font-size: var(--step-small);
+  font-weight: 500;
+  text-align: right;
+  overflow-wrap: anywhere;
+}
+
+.contact__details a {
+  text-decoration: none;
+}
+
+.contact__details a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.25em;
+}
+
+.contact__actions {
+  display: grid;
+  gap: 12px;
+  margin-top: clamp(24px, 3.4vh, 36px);
+}
+
+.contact__cta {
+  width: 100%;
+}
+
+.contact__actions .text-link {
+  justify-content: center;
+}
+
+.contact__note {
+  margin-top: 16px;
+  color: var(--muted);
+}
+
+.contact__credit {
+  position: absolute;
+  bottom: 18px;
+  left: var(--edge);
+  padding: 6px 8px;
+  background: rgba(12, 12, 11, 0.72);
+  color: #f2f2f2;
+  font-size: 13px;
+}
+
+@media (max-width: 760px) {
+  .contact {
+    min-height: 0;
+    padding-bottom: 48px;
+  }
+
+  .contact__bg {
+    position: relative;
+    inset: auto;
+    display: block;
+    width: 100%;
+    height: 70svh;
+    object-position: center 42%;
+  }
+
+  .contact__veil {
+    inset: 0 0 auto;
+    height: 70svh;
+  }
+
+  .contact__card {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: calc(100% - 2 * var(--edge));
+    margin: -80px var(--edge) 0;
+    padding: 24px;
+  }
+
+  .contact__title {
+    font-size: var(--step-head);
+  }
+
+  .contact__details > div {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+
+  .contact__details dd {
+    text-align: left;
+  }
+
+  .contact__credit {
+    top: 16px;
+    bottom: auto;
+  }
+}

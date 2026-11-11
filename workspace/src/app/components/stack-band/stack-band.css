@@ -1,0 +1,145 @@
+.stack {
+  position: relative;
+  padding-top: 8px;
+}
+
+.stack__head {
+  padding-bottom: 26px;
+}
+
+.stack__title {
+  font-size: var(--step-lead);
+  letter-spacing: -0.035em;
+}
+
+.stack__band {
+  display: flex;
+  width: 100%;
+  height: clamp(200px, 34vh, 330px);
+  align-items: center;
+  overflow: hidden;
+  background: var(--field-1);
+  color: var(--field-1-ink);
+}
+
+.stack__viewport {
+  width: 100%;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(/* taste-skill-ignore */
+    to right,
+    transparent,
+    #000 64px,
+    #000 calc(100% - 64px),
+    transparent
+  );
+  mask-image: linear-gradient(/* taste-skill-ignore */
+    to right,
+    transparent,
+    #000 64px,
+    #000 calc(100% - 64px),
+    transparent
+  );
+}
+
+.stack__rail {
+  display: flex;
+  width: max-content;
+  align-items: center;
+  animation: marquee 46s linear infinite;
+  will-change: transform;
+}
+
+.stack__band:hover .stack__rail {
+  animation-play-state: paused;
+}
+
+.stack__sequence {
+  display: flex;
+  align-items: center;
+}
+
+.stack__item {
+  font-size: var(--step-work);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.045em;
+  white-space: nowrap;
+}
+
+.stack__dot {
+  display: block;
+  width: 0.19em;
+  height: 0.19em;
+  margin-inline: 0.42em;
+  background: currentColor;
+  border-radius: 50%;
+  font-size: var(--step-work);
+}
+
+.stack__note {
+  max-width: 62ch;
+  padding-top: 28px;
+  padding-bottom: var(--space-section);
+  color: var(--muted);
+  font-size: var(--step-body);
+  line-height: 1.5;
+}
+
+@keyframes marquee {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@media (max-width: 700px) {
+  .stack__band {
+    height: 22vh;
+    min-height: 130px;
+  }
+
+  .stack__item,
+  .stack__dot {
+    font-size: var(--step-work);
+  }
+
+  .stack__note {
+    padding-top: 20px;
+    font-size: var(--step-small);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stack__viewport {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+
+  .stack__rail {
+    flex-wrap: wrap;
+    width: auto;
+    padding: 24px var(--edge);
+    gap: 0.1em 0.4em;
+    animation: none;
+  }
+
+  .stack__band {
+    height: auto;
+    min-height: 0;
+  }
+
+  .stack__item,
+  .stack__dot {
+    font-size: var(--step-lead);
+  }
+
+  .stack__dot {
+    display: none;
+  }
+
+  .stack__sequence:last-child {
+    display: none;
+  }
+}

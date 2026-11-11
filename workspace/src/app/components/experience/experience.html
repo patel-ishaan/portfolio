@@ -1,0 +1,42 @@
+<section class="experience wrap" id="experience" aria-labelledby="experience-title">
+  <div class="experience__head">
+    <h2 class="experience__title" id="experience-title">Experience</h2>
+    <p class="experience__intro" [appReveal]="80">
+      Two teams, two layers of the stack: models on one side, the software that ships them on the other.
+    </p>
+  </div>
+
+  <div class="experience__list">
+    @for (job of experience; track job.org; let i = $index) {
+      <article class="exp-row" [appReveal]="i * 70">
+        <div class="exp-row__role">
+          <h3>{{ job.role }}</h3>
+          <p class="exp-row__org">{{ job.org }}</p>
+        </div>
+
+        <p class="exp-row__years">{{ job.years }}</p>
+
+        <ul class="exp-row__points">
+          @for (point of job.points; track point) {
+            <li>{{ point }}</li>
+          }
+        </ul>
+      </article>
+    }
+  </div>
+
+  <div class="experience__education">
+    <h3 class="experience__subhead">Education</h3>
+
+    @for (row of education; track row.org + row.years; let i = $index) {
+      <div class="edu-row" [appReveal]="i * 60">
+        <p class="edu-row__years">{{ row.years }}</p>
+        <div class="edu-row__detail">
+          <p class="edu-row__org">{{ row.org }}</p>
+          <p class="edu-row__course">{{ row.detail }}</p>
+        </div>
+        <p class="edu-row__result">{{ row.result }}</p>
+      </div>
+    }
+  </div>
+</section>

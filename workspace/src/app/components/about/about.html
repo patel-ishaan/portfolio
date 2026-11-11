@@ -1,0 +1,41 @@
+<section class="about wrap" id="about" aria-labelledby="about-title">
+  <div class="about__head">
+    <h2 class="about__title" id="about-title" [appReveal]="0">About Ishaan</h2>
+
+    <div class="about__copy">
+      <p class="about__lead" [appReveal]="60">
+        I studied CSE (AI/ML) at Galgotias, built an AI stylist at Merorr, and now build Spring Boot
+        and Angular systems at Capgemini.
+      </p>
+      <p class="about__note" [appReveal]="120">
+        I care about the part where a model stops being a demo and starts being a product.
+      </p>
+    </div>
+  </div>
+
+  <div class="about__tiles">
+    <figure class="about__portrait" [appReveal]="0">
+      <img
+        src="images/ishaan-mysore.jpg"
+        alt="Ishaan Patel standing in front of Mysore Palace."
+        width="1650"
+        height="2200"
+        loading="lazy"
+      />
+      <figcaption>Mysore, 2026. Photo by Ishaan Patel.</figcaption>
+    </figure>
+
+    <div class="about__facts" [appReveal]="90">
+      <p class="about__facts-title">At a glance</p>
+      <dl>
+        <div><dt>Based</dt><dd>India</dd></div>
+        <div><dt>Now</dt><dd>Software Engineer, Capgemini</dd></div>
+        <div><dt>Before</dt><dd>AI Intern, Merorr</dd></div>
+        <div><dt>Degree</dt><dd>B.Tech CSE (AI/ML), 2026</dd></div>
+        <div><dt>CGPA</dt><dd>7.53 / 10</dd></div>
+        <div><dt>Class 12</dt><dd>91.84% · CBSE</dd></div>
+        <div><dt>Class 10</dt><dd>93% · CBSE</dd></div>
+      </dl>
+    </div>
+  </div>
+</section>

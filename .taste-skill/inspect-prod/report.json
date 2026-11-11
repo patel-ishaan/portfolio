@@ -1,0 +1,2970 @@
+{
+ "url": "D:\\Code\\portfolio\\workspace\\dist\\ishaan-portfolio\\browser\\index.html",
+ "at": "2026-11-11T18:47:01.980Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.77,
+    0.77,
+    0.61,
+    0.72,
+    0.93,
+    0.74,
+    1,
+    0.93,
+    0.62,
+    0.73,
+    0.81
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 6,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11201,
+     "screens": 12.4,
+     "words": 825,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 4,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "studio-mural.jpg",
+      "survey-of-india-1922.jpg",
+      "survey-of-india-1922.jpg",
+      "ishaan-mysore.jpg",
+      "studio-portrait.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Ishaan Patel",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 76,
+     "vw": 5.3,
+     "font": "Hanken Grotesk",
+     "weight": 500,
+     "tracking": -0.065,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.5,
+     "top": 239,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Ishaan Patel",
+     "words": 2,
+     "lines": 1,
+     "size": 76,
+     "font": "Hanken Grotesk"
+    },
+    "headings": [
+     {
+      "text": "Ishaan Patel",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 76,
+      "vw": 5.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 239,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "AI engineer",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 358,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Full-stack developer",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 391,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "India",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 424,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected systems",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 110.4,
+      "vw": 7.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 952,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 400,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 1615,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Hitched",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 400,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 1665,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Illustra",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 1734,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "More work",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3550,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "NCRB crime data, 2011–2022",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 3619,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Insurance Management System",
+      "words": 3,
+      "chars": 27,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 3744,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Two teams, two layers of the stack: models on one side, the software that ships them on the other.",
+      "words": 19,
+      "chars": 98,
+      "lines": 2,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.28,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 4091,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Experience",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 76,
+      "vw": 5.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 4092,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Software Engineer",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 4258,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "AI Intern",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 4512,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Education",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4841,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Three parts of one job: decide with the model, build the product around it, and show what the data can support.",
+      "words": 21,
+      "chars": 111,
+      "lines": 3,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.28,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 5518,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "What I bring",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 76,
+      "vw": 5.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5556,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Agent systems",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 5718,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Product delivery",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 6492,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Data and evidence",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 7266,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "I studied CSE (AI/ML) at Galgotias, built an AI stylist at Merorr, and now build Spring Boot and Angular systems at Capgemini.",
+      "words": 22,
+      "chars": 126,
+      "lines": 3,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.37,
+      "top": 8196,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "About Ishaan",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 76,
+      "vw": 5.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 8311,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "At a glance",
+      "words": 3,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.45,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 8511,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Tools I have shipped with",
+      "words": 5,
+      "chars": 25,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 9456,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Python Java TypeScript LangChain MCP OpenCV Pandas scikit-learn Streamlit Flask Django Spring Boot Angular Hibernate MySQL Git",
+      "words": 17,
+      "chars": 126,
+      "lines": 1,
+      "size": 110.4,
+      "vw": 7.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 5.18,
+      "top": 9605,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Python Java TypeScript LangChain MCP OpenCV Pandas scikit-learn Streamlit Flask Django Spring Boot Angular Hibernate MySQL Git",
+      "words": 17,
+      "chars": 126,
+      "lines": 1,
+      "size": 110.4,
+      "vw": 7.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 5.18,
+      "top": 9605,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build it.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 38.6,
+      "vw": 2.7,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 10159,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 28,
+     "maxLines": 3,
+     "over2Lines": 0,
+     "statements": 12,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      15,
+      19,
+      28,
+      39,
+      76,
+      110
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 19,
+      "leading": 1.42,
+      "weight": 400,
+      "tracking": -0.005,
+      "contrast": 10.3
+     },
+     "measureChars": 47,
+     "max": {
+      "size": 110.4,
+      "vw": 7.7,
+      "font": "Hanken Grotesk",
+      "text": "Selectedsystems"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#a8a8aa",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.01,
+      "l": 0.66
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#151513",
+       "top": 0,
+       "hsl": {
+        "h": 60,
+        "s": 0.05,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#d8d2c7",
+       "top": 120,
+       "hsl": {
+        "h": 39,
+        "s": 0.18,
+        "l": 0.81
+       }
+      },
+      {
+       "color": "#a8a8aa",
+       "top": 900,
+       "hsl": {
+        "h": 240,
+        "s": 0.01,
+        "l": 0.66
+       }
+      },
+      {
+       "color": "#1b1b1c",
+       "top": 5702,
+       "hsl": {
+        "h": 240,
+        "s": 0.02,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#b4b4b6",
+       "top": 6476,
+       "hsl": {
+        "h": 240,
+        "s": 0.01,
+        "l": 0.71
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#3a3a3c",
+       "share": 0.32
+      },
+      {
+       "color": "#111110",
+       "share": 0.29
+      },
+      {
+       "color": "#0e0e0e",
+       "share": 0.16
+      },
+      {
+       "color": "#f4f4f4",
+       "share": 0.09
+      },
+      {
+       "color": "#f2f2f2",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#1f5c49",
+      "hsl": {
+       "h": 161,
+       "s": 0.5,
+       "l": 0.24
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to work",
+      "Hire for a role",
+      "Email about a role"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 22,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11201,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "app-hero",
+      "tag": "app-hero",
+      "top": 0,
+      "height": 900,
+      "words": 55,
+      "media": 0,
+      "middle": 26,
+      "heading": {
+       "text": "Ishaan",
+       "size": 76,
+       "tag": "h1"
+      },
+      "left": 65,
+      "right": 651,
+      "textLeft": 65,
+      "textRight": 651,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-work",
+      "tag": "app-work",
+      "top": 900,
+      "height": 3018,
+      "words": 150,
+      "media": 1,
+      "middle": 35,
+      "heading": {
+       "text": "Selected",
+       "size": 110,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "app-experience",
+      "tag": "app-experience",
+      "top": 3918,
+      "height": 1427,
+      "words": 187,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Experience",
+       "size": 76,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-capabilities",
+      "tag": "app-capabilities",
+      "top": 5345,
+      "height": 2678,
+      "words": 193,
+      "media": 1,
+      "middle": 249,
+      "heading": {
+       "text": "What I bring",
+       "size": 76,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "app-about",
+      "tag": "app-about",
+      "top": 8024,
+      "height": 1424,
+      "words": 80,
+      "media": 1,
+      "middle": 70,
+      "heading": {
+       "text": "About Ishaan",
+       "size": 76,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 68,
+      "textLeft": 32,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-stack-band",
+      "tag": "app-stack-band",
+      "top": 9448,
+      "height": 624,
+      "words": 31,
+      "media": 0,
+      "middle": 114,
+      "heading": {
+       "text": "LangChain",
+       "size": 110,
+       "tag": "span"
+      },
+      "left": 0,
+      "right": 110,
+      "textLeft": 0,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-contact",
+      "tag": "app-contact",
+      "top": 10071,
+      "height": 900,
+      "words": 36,
+      "media": 1,
+      "middle": 811,
+      "heading": {
+       "text": "Let’s build it.",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 102,
+      "textLeft": 40,
+      "textRight": 102,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-site-footer",
+      "tag": "app-site-footer",
+      "top": 10971,
+      "height": 230,
+      "words": 64,
+      "media": 0,
+      "middle": 335,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 5156,
+      "height": 360
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Ishaan Patel",
+      "size": 76,
+      "top": 239,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 18
+     },
+     {
+      "x": 772,
+      "n": 3
+     },
+     {
+      "x": 326,
+      "n": 2
+     },
+     {
+      "x": 65,
+      "n": 1
+     },
+     {
+      "x": 429,
+      "n": 1
+     },
+     {
+      "x": 643,
+      "n": 1
+     },
+     {
+      "x": 740,
+      "n": 1
+     },
+     {
+      "x": 996,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 28,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.67,
+    0.75,
+    0.7,
+    0.38,
+    1,
+    0.79,
+    1,
+    0.88,
+    0.84,
+    0.74,
+    0.94
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 2,
+    "transitions": 20,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 12592,
+     "screens": 12.3,
+     "words": 1043,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 4,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "studio-mural.jpg",
+      "textile-weave.jpg",
+      "wedding-roses-crop.jpg",
+      "survey-of-india-1922.jpg",
+      "survey-of-india-1922.jpg",
+      "ishaan-mysore.jpg",
+      "studio-portrait.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Ishaan Patel",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 56.9,
+     "vw": 7.4,
+     "font": "Hanken Grotesk",
+     "weight": 500,
+     "tracking": -0.065,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.61,
+     "top": 310,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Ishaan Patel",
+     "words": 2,
+     "lines": 1,
+     "size": 56.9,
+     "font": "Hanken Grotesk"
+    },
+    "headings": [
+     {
+      "text": "Ishaan Patel",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 56.9,
+      "vw": 7.4,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 310,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected systems",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 56.9,
+      "vw": 7.4,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 1024,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 1318,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Hitched",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 2417,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Illustra",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 3613,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 56.9,
+      "vw": 7.4,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 5191,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Software Engineer",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 5366,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "AI Intern",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 5690,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Education",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 6053,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What I bring",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 56.9,
+      "vw": 7.4,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 6614,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Agent systems",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.23,
+      "top": 6801,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Product delivery",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.26,
+      "top": 7518,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Data and evidence",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.29,
+      "top": 8235,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "About Ishaan",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 56.9,
+      "vw": 7.4,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 9106,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Python Java TypeScript LangChain MCP OpenCV Pandas scikit-learn Streamlit Flask Django Spring Boot Angular Hibernate MySQL Git",
+      "words": 17,
+      "chars": 126,
+      "lines": 1,
+      "size": 72.9,
+      "vw": 9.5,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 6.41,
+      "top": 10928,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Python Java TypeScript LangChain MCP OpenCV Pandas scikit-learn Streamlit Flask Django Spring Boot Angular Hibernate MySQL Git",
+      "words": 17,
+      "chars": 126,
+      "lines": 1,
+      "size": 72.9,
+      "vw": 9.5,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 6.41,
+      "top": 10928,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build it.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.48,
+      "top": 11392,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      18,
+      23,
+      30,
+      57,
+      73
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18.3,
+      "leading": 1.42,
+      "weight": 400,
+      "tracking": -0.005,
+      "contrast": 10.3
+     },
+     "measureChars": 80,
+     "max": {
+      "size": 72.9,
+      "vw": 9.5,
+      "font": "Hanken Grotesk",
+      "text": "Python"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#a8a8aa",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.01,
+      "l": 0.66
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#151513",
+       "top": 0,
+       "hsl": {
+        "h": 60,
+        "s": 0.05,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#d8d2c7",
+       "top": 232,
+       "hsl": {
+        "h": 39,
+        "s": 0.18,
+        "l": 0.81
+       }
+      },
+      {
+       "color": "#a8a8aa",
+       "top": 1024,
+       "hsl": {
+        "h": 240,
+        "s": 0.01,
+        "l": 0.66
+       }
+      },
+      {
+       "color": "#f1f1f0",
+       "top": 1765,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#1b1b1c",
+       "top": 6779,
+       "hsl": {
+        "h": 240,
+        "s": 0.02,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#b4b4b6",
+       "top": 7496,
+       "hsl": {
+        "h": 240,
+        "s": 0.01,
+        "l": 0.71
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#3a3a3c",
+       "share": 0.31
+      },
+      {
+       "color": "#111110",
+       "share": 0.23
+      },
+      {
+       "color": "#0e0e0e",
+       "share": 0.19
+      },
+      {
+       "color": "#f4f4f4",
+       "share": 0.08
+      },
+      {
+       "color": "#5a5852",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#1f5c49",
+      "hsl": {
+       "h": 161,
+       "s": 0.5,
+       "l": 0.24
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to work",
+      "Hire for a role",
+      "Email about a role"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 7,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 21,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 12592,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "app-hero",
+      "tag": "app-hero",
+      "top": 0,
+      "height": 1024,
+      "words": 52,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ishaan",
+       "size": 57,
+       "tag": "h1"
+      },
+      "left": 40,
+      "right": 261,
+      "textLeft": 40,
+      "textRight": 261,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-work",
+      "tag": "app-work",
+      "top": 1024,
+      "height": 4071,
+      "words": 373,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Selected",
+       "size": 57,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-experience",
+      "tag": "app-experience",
+      "top": 5095,
+      "height": 1423,
+      "words": 187,
+      "media": 0,
+      "middle": 21,
+      "heading": {
+       "text": "Experience",
+       "size": 57,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-capabilities",
+      "tag": "app-capabilities",
+      "top": 6518,
+      "height": 2492,
+      "words": 193,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What I bring",
+       "size": 57,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-about",
+      "tag": "app-about",
+      "top": 9010,
+      "height": 1734,
+      "words": 80,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "About Ishaan",
+       "size": 57,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-stack-band",
+      "tag": "app-stack-band",
+      "top": 10744,
+      "height": 564,
+      "words": 31,
+      "media": 0,
+      "middle": 65,
+      "heading": {
+       "text": "LangChain",
+       "size": 73,
+       "tag": "span"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-contact",
+      "tag": "app-contact",
+      "top": 11308,
+      "height": 1024,
+      "words": 36,
+      "media": 1,
+      "middle": 167,
+      "heading": {
+       "text": "Let’s build it.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 65,
+      "textLeft": 28,
+      "textRight": 65,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-site-footer",
+      "tag": "app-site-footer",
+      "top": 12332,
+      "height": 260,
+      "words": 64,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Ishaan Patel",
+      "size": 57,
+      "top": 310,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 26
+     },
+     {
+      "x": 272,
+      "n": 2
+     },
+     {
+      "x": 40,
+      "n": 1
+     },
+     {
+      "x": 285,
+      "n": 1
+     },
+     {
+      "x": 297,
+      "n": 1
+     },
+     {
+      "x": 341,
+      "n": 1
+     },
+     {
+      "x": 398,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 33,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.69,
+    0.63,
+    0.62,
+    0.55,
+    0.9,
+    1,
+    0.76,
+    1,
+    0.83,
+    0.83,
+    0.78
+   ],
+   "motion": {
+    "elements": 18,
+    "css": 2,
+    "transitions": 16,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 11382,
+     "screens": 13.5,
+     "words": 1043,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 4,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "studio-mural.jpg",
+      "textile-weave.jpg",
+      "wedding-roses-crop.jpg",
+      "survey-of-india-1922.jpg",
+      "survey-of-india-1922.jpg",
+      "ishaan-mysore.jpg",
+      "studio-portrait.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Ishaan Patel",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 40,
+     "vw": 10.3,
+     "font": "Hanken Grotesk",
+     "weight": 500,
+     "tracking": -0.065,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.79,
+     "top": 380,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Ishaan Patel",
+     "words": 2,
+     "lines": 1,
+     "size": 40,
+     "font": "Hanken Grotesk"
+    },
+    "headings": [
+     {
+      "text": "Ishaan Patel",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 380,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected systems",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 844,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 1042,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Hitched",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 2047,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Illustra",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 3036,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4505,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Software Engineer",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4685,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "AI Intern",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5160,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Education",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5622,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What I bring",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6198,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Agent systems",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.42,
+      "top": 6386,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Product delivery",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.48,
+      "top": 7031,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Data and evidence",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.54,
+      "top": 7656,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "About Ishaan",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 8321,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Python Java TypeScript LangChain MCP OpenCV Pandas scikit-learn Streamlit Flask Django Spring Boot Angular Hibernate MySQL Git",
+      "words": 17,
+      "chars": 126,
+      "lines": 1,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 9.43,
+      "top": 9601,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Python Java TypeScript LangChain MCP OpenCV Pandas scikit-learn Streamlit Flask Django Spring Boot Angular Hibernate MySQL Git",
+      "words": 17,
+      "chars": 126,
+      "lines": 1,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 9.43,
+      "top": 9601,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build it.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 10435,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      18,
+      22,
+      28,
+      40,
+      54
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18,
+      "leading": 1.42,
+      "weight": 400,
+      "tracking": -0.005,
+      "contrast": 10.3
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Hanken Grotesk",
+      "text": "Python"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#a8a8aa",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.01,
+      "l": 0.66
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#151513",
+       "top": 0,
+       "hsl": {
+        "h": 60,
+        "s": 0.05,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#d8d2c7",
+       "top": 310,
+       "hsl": {
+        "h": 39,
+        "s": 0.18,
+        "l": 0.81
+       }
+      },
+      {
+       "color": "#a8a8aa",
+       "top": 844,
+       "hsl": {
+        "h": 240,
+        "s": 0.01,
+        "l": 0.66
+       }
+      },
+      {
+       "color": "#f1f1f0",
+       "top": 1250,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#1b1b1c",
+       "top": 6364,
+       "hsl": {
+        "h": 240,
+        "s": 0.02,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#b4b4b6",
+       "top": 7009,
+       "hsl": {
+        "h": 240,
+        "s": 0.01,
+        "l": 0.71
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#3a3a3c",
+       "share": 0.31
+      },
+      {
+       "color": "#111110",
+       "share": 0.23
+      },
+      {
+       "color": "#0e0e0e",
+       "share": 0.19
+      },
+      {
+       "color": "#f4f4f4",
+       "share": 0.08
+      },
+      {
+       "color": "#5a5852",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#1f5c49",
+      "hsl": {
+       "h": 161,
+       "s": 0.5,
+       "l": 0.24
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to work",
+      "Hire for a role",
+      "Email about a role"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 7,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 20,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 11382,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "app-hero",
+      "tag": "app-hero",
+      "top": 0,
+      "height": 844,
+      "words": 52,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ishaan",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-work",
+      "tag": "app-work",
+      "top": 844,
+      "height": 3565,
+      "words": 373,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Selected",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-experience",
+      "tag": "app-experience",
+      "top": 4409,
+      "height": 1693,
+      "words": 187,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Experience",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-capabilities",
+      "tag": "app-capabilities",
+      "top": 6102,
+      "height": 2123,
+      "words": 193,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What I bring",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-about",
+      "tag": "app-about",
+      "top": 8225,
+      "height": 1256,
+      "words": 80,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "About Ishaan",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-stack-band",
+      "tag": "app-stack-band",
+      "top": 9481,
+      "height": 419,
+      "words": 30,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "LangChain",
+       "size": 54,
+       "tag": "span"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-contact",
+      "tag": "app-contact",
+      "top": 9900,
+      "height": 1159,
+      "words": 36,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 28,
+      "right": 79,
+      "textLeft": 28,
+      "textRight": 79,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "app-site-footer",
+      "tag": "app-site-footer",
+      "top": 11059,
+      "height": 323,
+      "words": 64,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 26,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Ishaan Patel",
+      "size": 40,
+      "top": 380,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 26
+     },
+     {
+      "x": 40,
+      "n": 3
+     },
+     {
+      "x": 89,
+      "n": 1
+     },
+     {
+      "x": 101,
+      "n": 1
+     },
+     {
+      "x": 112,
+      "n": 1
+     },
+     {
+      "x": 273,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 33,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\desktop-page-01.jpg",
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\desktop-page-02.jpg",
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\tablet-page-01.jpg",
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\mobile-page-01.jpg",
+    "D:\\Code\\portfolio\\.taste-skill\\inspect-prod\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
