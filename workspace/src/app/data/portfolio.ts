@@ -140,6 +140,7 @@ export const EXPERIENCE: ExperienceRow[] = [
       'Completed full-stack training in Spring Boot and Angular: layered architecture, JPA/Hibernate, REST APIs and Spring Security.',
       'Built an Insurance Management System with a four-person team, covering end-to-end CRUD workflows and role-based access.',
       'Built an Inventory Management System with layered REST architecture, JPQL, Mockito unit tests and Thymeleaf server-side rendering.',
+      'Worked on an internal AI agent framework that to speed up development process using Github copilot and figma MCP'
     ],
   },
   {
