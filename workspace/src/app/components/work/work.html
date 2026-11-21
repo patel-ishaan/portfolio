@@ -1,6 +1,6 @@
 <section class="work" id="work" aria-labelledby="work-title">
   <div class="work__runner">
-    <div class="work__stage">
+    <div class="work__stage" [class.is-prev]="direction() === 'prev'">
       <div class="work__left">
         <h2 class="work__title" id="work-title">Selected<br />systems</h2>
 
@@ -84,12 +84,6 @@
           }
         }
       </div>
-    </div>
-
-    <div class="work__steps" aria-hidden="true">
-      @for (project of projects; track project.id; let i = $index) {
-        <div class="work__step" #step [attr.data-index]="i"></div>
-      }
     </div>
   </div>
 
