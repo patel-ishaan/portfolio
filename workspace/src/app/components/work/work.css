@@ -8,9 +8,6 @@
 }
 
 .work__stage {
-  position: sticky;
-  top: 0;
-  z-index: 1;
   display: grid;
   grid-template-columns: 38% 62%;
   height: 100svh;
@@ -37,7 +34,11 @@
 }
 
 .work__detail-inner {
-  animation: detail-in 420ms var(--ease-out) both;
+  animation: detail-next 420ms var(--ease-out) both;
+}
+
+.work__stage.is-prev .work__detail-inner {
+  animation-name: detail-prev;
 }
 
 .work__meta {
@@ -161,7 +162,11 @@
   position: absolute;
   inset: 0;
   margin: 0;
-  animation: wipe-up 900ms var(--ease-out) both;
+  animation: slide-next 900ms var(--ease-out) both;
+}
+
+.work__stage.is-prev .work__figure {
+  animation-name: slide-prev;
 }
 
 .work__world {
@@ -193,15 +198,6 @@
   color: #f2f2f2;
   font-size: 13px;
   line-height: 1.35;
-}
-
-.work__steps {
-  position: relative;
-  z-index: 0;
-}
-
-.work__step {
-  height: 60svh;
 }
 
 .work__mobile {
@@ -253,23 +249,43 @@
   font-size: var(--step-small);
 }
 
-@keyframes wipe-up {
+@keyframes slide-next {
   from {
-    clip-path: inset(100% 0 0 0);
+    clip-path: inset(0 0 0 100%);
   }
   to {
     clip-path: inset(0);
   }
 }
 
-@keyframes detail-in {
+@keyframes slide-prev {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+  to {
+    clip-path: inset(0);
+  }
+}
+
+@keyframes detail-next {
   from {
     opacity: 0;
-    transform: translateY(12px);
+    transform: translateX(24px);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
+    transform: translateX(0);
+  }
+}
+
+@keyframes detail-prev {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
   }
 }
 
